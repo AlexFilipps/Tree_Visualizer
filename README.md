@@ -3,7 +3,8 @@ A small program which visualizes a randomized tree structure as a recursively dr
 
   This program was created with the goal of creating an interesting visualization of a tree-like data structure. While in theory any tree based structure could be displayed, the one implemented in this program was designed to be quite varried in shape. Specifically, each node of the tree has a random number of children nodes (between 3 and 12), and the depth of branches in the tree is inconsistent (but is capped to a depth of 8). The reason for using this tree structure is that a less consistent distribution of data in the tree results in a more interesting final image. 
   
-  
+ ![plot](./Lines1.PNG)
+ ![plot](./Lines2.PNG)
   
 Above are a few example images that can be generated.
   
